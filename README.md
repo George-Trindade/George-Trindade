@@ -1,8 +1,8 @@
 ### Olá! Eu sou o George Trindade 👋
 
 
-- 🔭 Estudos e desenvolvimentos com foco em back-end (PHP)
-- 🌱 Estudando Framework Laravel
+- 🔭 Desenvolvimentos com foco em back-end (PHP)
+- 🌱 Estudando Laravel Framework 
 - 📫 Contate-me no e-mail: georgetrindade.dev@gmail.com
 
 <div align="center">
